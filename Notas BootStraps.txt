@@ -1,0 +1,9 @@
+BootStrap que maneja 4 tamaños de Pantalla hasta ocupar un espacio de 
+12 celdas
+Sm: small (pequeño)
+md: medium (Mediano) 
+lg: large (largo)
+xl: extra large (Extra largo)
+
+un espacio horizontal lo hace con una fila o row
+col= columna
